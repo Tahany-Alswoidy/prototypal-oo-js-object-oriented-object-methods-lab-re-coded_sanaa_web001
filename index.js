@@ -6,5 +6,5 @@ function BoardMember(name, homeState, training){
   this.approve=()=>{return "No, I must disagree";};
   this.doCharity=()=>{return "I like to help people.";};
   this.releasePressStatement =()=>{return "will see great things from Scuber.";};
-  this.sayHi =()=>{return "No, I must disagree";};
+  this.sayHi =()=>{return `Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.';};
 }
