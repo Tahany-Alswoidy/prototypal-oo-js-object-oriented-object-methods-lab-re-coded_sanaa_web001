@@ -5,6 +5,6 @@ function BoardMember(name, homeState, training){
   this.veto=()=>{return "You can do that!";};
   this.approve=()=>{return "No, I must disagree";};
   this.doCharity=()=>{return "I like to help people.";};
-  this.releasePressStatement =()=>{return "No, I must disagree";};
+  this.releasePressStatement =()=>{return "will see great things from Scuber.";};
   this.veto=()=>{return "No, I must disagree";};
 }
