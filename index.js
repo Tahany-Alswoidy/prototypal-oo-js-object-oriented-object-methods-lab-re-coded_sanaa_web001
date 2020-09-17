@@ -1,3 +1,3 @@
-function BoardMember(name){
+function BoardMember(name, homeState, ){
   
 }
